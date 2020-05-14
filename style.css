@@ -1,0 +1,27 @@
+body, html{
+    height: calc(100% -20px);
+    background-color: rgb(231, 230, 230);
+}
+
+table{
+    display:flex;
+    justify-content: center;
+}
+
+table td {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+}
+
+.blankSpace{
+    background-color: rgb(121, 111, 111);
+}
+
+.bodyOfPiece{
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(38, 33, 46);
+    border-radius: 50%;
+}
